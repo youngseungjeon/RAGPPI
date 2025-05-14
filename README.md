@@ -1,4 +1,3 @@
-markdown_content = """
 # RAGPPI: A Benchmark for Therapeutic Impact in Protein-Protein Interactions
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](#python)
