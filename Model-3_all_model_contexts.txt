@@ -1,0 +1,128 @@
+
+Example: MSS51>COX1
+
+
+According to the abstract and the ground truth, what biological, functional, or physical effects result from MSS51>COX1?
+Please assess the appropriateness of the answer.
+
+Abstract:
+The post-transcriptional role of Mss51p in mitochondrial gene expression is of great interest since MSS51 mutations suppress the respiratory defect caused by shy1 mutations. SHY1 is a Saccharomyces cerevisiae homolog of human SURF1, which when mutated causes a cytochrome oxidase assembly defect. We found that MSS51 is required for expression of the mitochondrial reporter gene ARG8(m) when it is inserted at the COX1 locus, but not when it is at COX2 or COX3. Unlike the COX1 mRNA-specific translational activator PET309, MSS51 has at least two targets in COX1 mRNA. MSS51 acts in the untranslated regions of the COX1 mRNA, since it was required to synthesize Arg8p when ARG8(m) completely replaced the COX1 codons. MSS51 also acts on a target specified by the COX1 coding region, since it was required to translate either COX1 or COX1:: ARG8(m) coding sequences from an ectopic COX2 locus. Mss51p was found to interact physically with newly synthesized Cox1p, suggesting that it could coordinate Cox1p synthesis with insertion into the inner membrane or cytochrome oxidase assembly.
+
+Ground Truth (GT):
+Mss51p promotes the translation of COX1 mRNA, acting post-transcriptionally in both the untranslated and coding regions to ensure proper expression of the mitochondrial COX1 gene. Additionally, Mss51p physically binds to newly synthesized Cox1p, likely to coordinate its membrane insertion or cytochrome oxidase assembly. These interactions are essential for mitochondrial function and help modulate cytochrome oxidase biogenesis, particularly in response to mutations such as those in SHY1.
+
+Answer:
+Mss51p interacts physically with newly synthesized Cox1p, suggesting a role in coordinating Cox1p synthesis with its insertion into the inner membrane or cytochrome oxidase assembly. MSS51 is required for the expression of the mitochondrial reporter gene ARG8(m) when it is inserted at the COX1 locus, indicating its role in post-transcriptional gene expression. This interaction could potentially be exploited to correct respiratory defects caused by shy1 mutations.
+
+Label:
+Perfect
+
+
+================================================================================
+================================================================================
+
+Example: eso1>wpl1
+
+
+According to the abstract and the ground truth, what biological, functional, or physical effects result from eso1>wpl1?
+Please assess the appropriateness of the answer.
+
+Abstract:
+In budding yeast and humans, cohesion establishment during S phase requires the acetyltransferase Eco1/Esco1-2, which acetylates the cohesin subunit Smc3 on two conserved lysine residues. Whether Smc3 is the sole Eco1/Esco1-2 effector and how Smc3 acetylation promotes cohesion are unknown. In fission yeast (Schizosaccharomyces pombe), as in humans, cohesin binding to G(1) chromosomes is dynamic and the unloading reaction is stimulated by Wpl1 (human ortholog, Wapl). During S phase, a subpopulation of cohesin becomes stably bound to chromatin in an Eso1 (fission yeast Eco1/Esco1-2)-dependent manner. Cohesin stabilization occurs unevenly along chromosomes. Cohesin remains largely labile at the rDNA repeats but binds mostly in the stable mode to pericentromere regions. This pattern is largely unchanged in eso1√Ö¬í√É¬Æ wpl1√Ö¬í√É¬Æ cells, and cohesion is unaffected, indicating that the main Eso1 role is counteracting Wpl1. A mutant of Psm3 (fission yeast Smc3) that mimics its acetylated state renders cohesin less sensitive to Wpl1-dependent unloading and partially bypasses the Eso1 requirement but cannot generate the stable mode of cohesin binding in the absence of Eso1. Conversely, nonacetylatable Psm3 reduces the stable cohesin fraction and affects cohesion in a Wpl1-dependent manner, but cells are viable. We propose that Psm3 acetylation contributes to Eso1 counteracting of Wpl1 to secure stable cohesin interaction with postreplicative chromosomes but that it is not the sole molecular event by which this occurs.
+
+Ground Truth (GT):
+In fission yeast, the acetyltransferase Eso1 functionally counteracts Wpl1 to stabilize cohesin binding to chromatin during S phase. Eso1 acetylates the cohesin subunit Psm3, reducing its sensitivity to Wpl1-mediated unloading and thereby promoting stable cohesin√¢¬Ä¬ìchromatin interactions. This regulation is essential for maintaining sister chromatid cohesion and ensuring accurate chromosome segregation. Disruption of this interaction can impair cohesion establishment, potentially leading to chromosomal instability and associated cellular defects.
+
+Answer:
+In fission yeast, the acetyltransferase Eso1 interacts with Wpl1 to stabilize cohesin binding to chromatin during the S phase of the cell cycle. Eso1 acetylates the cohesin subunit Psm3, making it less sensitive to Wpl1-dependent unloading and promoting stable cohesin-chromatin interaction. This interaction is crucial for proper chromosome segregation during cell division, and disruption could potentially lead to chromosomal instability and disease.
+
+Label:
+Perfect
+
+
+================================================================================
+================================================================================
+
+Example: Ezh2>Jarid2
+
+
+According to the abstract and the ground truth, what biological, functional, or physical effects result from Ezh2>Jarid2?
+Please assess the appropriateness of the answer.
+
+Abstract:
+The Polycomb group proteins foster gene repression profiles required for proper development and unimpaired adulthood, and comprise the components of the Polycomb-Repressive Complex 2 (PRC2) including the histone H3 Lys 27 (H3K27) methyltransferase Ezh2. How mammalian PRC2 accesses chromatin is unclear. We found that Jarid2 associates with PRC2 and stimulates its enzymatic activity in vitro. Jarid2 contains a Jumonji C domain, but is devoid of detectable histone demethylase activity. Instead, its artificial recruitment to a promoter in vivo resulted in corecruitment of PRC2 with resultant increased levels of di- and trimethylation of H3K27 (H3K27me2/3). Jarid2 colocalizes with Ezh2 and MTF2, a homolog of Drosophila Pcl, at endogenous genes in embryonic stem (ES) cells. Jarid2 can bind DNA and its recruitment in ES cells is interdependent with that of PRC2, as Jarid2 knockdown reduced PRC2 at its target promoters, and ES cells devoid of the PRC2 component EED are deficient in Jarid2 promoter access. In addition to the well-documented defects in embryonic viability upon down-regulation of Jarid2, ES cell differentiation is impaired, as is Oct4 silencing.
+
+Ground Truth (GT):
+Jarid2 associates with and enhances the enzymatic activity of Ezh2, a core component of the Polycomb-Repressive Complex 2 (PRC2), promoting increased di- and trimethylation of histone H3 at lysine 27 (H3K27me2/3), a mark of transcriptional repression. Although lacking histone demethylase activity, Jarid2 facilitates PRC2 recruitment to target promoters, and this co-recruitment is mutually dependent. The interplay between Jarid2 and PRC2 is essential for proper transcriptional regulation during embryonic stem cell differentiation and development.
+
+Answer:
+Jarid2 binds to and activates the enzymatic activity of Ezh2, a component of the Polycomb-Repressive Complex 2 (PRC2). This interaction leads to increased levels of di- and trimethylation of H3K27 (H3K27me2/3), which is associated with gene repression. The interdependent recruitment of Jarid2 and PRC2 to target promoters suggests that this interaction is crucial for proper gene regulation during embryonic stem cell differentiation and development.
+
+Label:
+Perfect
+
+
+================================================================================
+================================================================================
+
+Example: BHLH32>GL3
+
+
+According to the abstract and the ground truth, what biological, functional, or physical effects result from BHLH32>GL3?
+Please assess the appropriateness of the answer.
+
+Abstract:
+P(i) (inorganic phosphate) limitation severely impairs plant growth and reduces crop yield. Hence plants have evolved several biochemical and morphological responses to P(i) starvation that both enhance uptake and conserve use. The mechanisms involved in P(i) sensing and signal transduction are not completely understood. In the present study we report that a previously uncharacterized transcription factor, BHLH32, acts as a negative regulator of a range of P(i) starvation-induced processes in Arabidopsis. In bhlh32 mutant plants in P(i)-sufficient conditions, expression of several P(i) starvation-induced genes, formation of anthocyanins, total P(i) content and root hair formation were all significantly increased compared with the wild-type. Among the genes negatively regulated by BHLH32 are those encoding PPCK (phosphoenolpyruvate carboxylase kinase), which is involved in modifying metabolism so that P(i) is spared. The present study has shown that PPCK genes are rapidly induced by P(i) starvation leading to increased phosphorylation of phosphoenolpyruvate carboxylase. Furthermore, several Arabidopsis proteins that regulate epidermal cell differentiation [TTG1 (TRANSPARENT TESTA GLABRA1), GL3 (GLABRA3) and EGL3 (ENHANCER OF GL3)] positively regulate PPCK gene expression in response to P(i) starvation. BHLH32 can physically interact with TTG1 and GL3. We propose that BHLH32 interferes with the function of TTG1-containing complexes and thereby affects several biochemical and morphological processes that respond to P(i) availability.
+
+Ground Truth (GT):
+BHLH32 physically interacts with GL3 and TTG1, acting as a negative regulator of phosphate (P(i)) starvation responses in Arabidopsis. This interaction interferes with the function of TTG1-containing transcriptional complexes, thereby repressing the expression of P(i) starvation-induced genes such as PPCK. As a result, in bhlh32 mutant plants, this repression is lifted, leading to increased expression of P(i)-responsive genes, enhanced anthocyanin production, elevated total P(i) content, and increased root hair formation√¢¬Ä¬îall of which support greater phosphate uptake and conservation.
+
+Answer:
+BHLH32 physically interacts with GL3, acting as a negative regulator for various processes induced by phosphate (P(i)) starvation in Arabidopsis. This interaction interferes with the function of TTG1-containing complexes, affecting biochemical and morphological responses to P(i) availability. Consequently, this interaction leads to increased expression of P(i) starvation-induced genes, formation of anthocyanins, total P(i) content, and root hair formation, thereby enhancing the plant's ability to conserve and uptake P(i).
+
+Label:
+Incorrect
+
+
+================================================================================
+================================================================================
+
+Example: HMA5>CCH
+
+
+According to the abstract and the ground truth, what biological, functional, or physical effects result from HMA5>CCH?
+Please assess the appropriateness of the answer.
+
+Abstract:
+Since copper (Cu) is essential in key physiological oxidation reactions, organisms have developed strategies for handling Cu while avoiding its potentially toxic effects. Among the tools that have evolved to cope with Cu is a network of Cu homeostasis factors such as Cu-transporting P-type ATPases that play a key role in transmembrane Cu transport. In this work we present the functional characterization of an Arabidopsis Cu-transporting P-type ATPase, denoted heavy metal ATPase 5 (HMA5), and its interaction with Arabidopsis metallochaperones. HMA5 is primarily expressed in roots, and is strongly and specifically induced by Cu in whole plants. We have identified and characterized plants carrying two independent T-DNA insertion alleles, hma5-1 and hma5-2. Both mutants are hypersensitive to Cu but not to other metals such as iron, zinc or cadmium. Interestingly, root tips from Cu-treated hma5 mutants exhibit a wave-like phenotype at early stages and later on main root growth completely arrests whereas lateral roots emerge near the crown. Accordingly, these lines accumulate Cu in roots to a greater extent than wild-type plants under Cu excess. Finally, yeast two-hybrid experiments demonstrate that the metal-binding domains of HMA5 interact with Arabidopsis ATX1-like Cu chaperones, and suggest a regulatory role for the plant-specific domain of the CCH Cu chaperone. Based on these findings, we propose a role for HMA5 in Cu compartmentalization and detoxification.
+
+Ground Truth (GT):
+The metal-binding domains of HMA5 interact with Arabidopsis ATX1-like Cu chaperones, and suggest a regulatory role for the plant-specific domain of the CCH Cu chaperone. This interaction helps HMA5 in Cu compartmentalization and detoxification.
+
+Answer:
+The interaction between HMA5 and CCH in Arabidopsis plants aids in the regulation of copper (Cu) levels. HMA5, a Cu-transporting P-type ATPase, binds with the CCH Cu chaperone, facilitating the transmembrane transport of Cu. This interaction helps in Cu compartmentalization and detoxification, preventing Cu toxicity and maintaining the plant's health.
+
+Label:
+Incorrect
+
+
+================================================================================
+================================================================================
+
+Example: CUL2>E7
+
+
+According to the abstract and the ground truth, what biological, functional, or physical effects result from CUL2>E7?
+Please assess the appropriateness of the answer.
+
+Abstract:
+APOBEC3 (A3) mutation signatures have been observed in a variety of human cancer genomes, including those of cervical and head and neck cancers caused by human papillomavirus (HPV) infection. However, the driving forces that promote off-target A3 activity remain mostly unclear. Here, we report a mechanism for the dramatic increase of A3A protein levels in HPV-positive keratinocytes. We show that expression of the viral protein E7 from high-risk HPVs, but not E7 from low-risk HPVs, significantly prolongs the cellular half-life of A3A protein in human keratinocytes and HPV-positive cancer cell lines. We have mapped several residues within the cullin 2 (CUL2) binding motif of HPV16 E7 as being important for mediating A3A protein stabilization. Furthermore, we provide direct evidence that both A3A and HPV16 E7 interact with CUL2, suggesting that the E7-CUL2 complex formed during HPV infection may regulate A3A protein levels in the cell. Using anin vitrocytidine deaminase assay, we show that E7-stabilized A3A remains catalytically active. Taken together, our findings suggest that the HPV oncoprotein E7 dysregulates endogenous A3A protein levels and thus provides novel mechanistic insight into cellular triggers of A3 mutations in HPV-positive cancers.IMPORTANCEHuman papillomavirus (HPV) is causally associated with over 5% of all human malignancies. Several recent studies have shown that a subset of cancers, including HPV-positive head and neck and cervical cancers, have distinct mutational signatures potentially caused by members of the APOBEC3 cytidine deaminase family. However, the mechanism that induces APOBEC3 activity in cancer cells is poorly understood. Here, we report that the HPV oncoprotein E7 stabilizes the APOBEC3A (A3A) protein in human keratinocytes by inhibiting ubiquitin-dependent protein degradation in a cullin-dependent manner. Interestingly, the HPV E7-stabilized A3A protein maintains its deaminase activity. These findings provide a new insight into cancer mutagenesis enhanced by virus-induced A3A protein stabilization.
+
+Ground Truth (GT):
+The viral protein E7 from high-risk HPVs binds to cullin 2 (CUL2), prolonging the cellular half-life of A3A protein in human keratinocytes and HPV-positive cancer cell lines. This interaction inhibits ubiquitin-dependent protein degradation, leading to a stabilizes in A3A protein levels. The stabilized A3A remains deaminase active, potentially contributing to enhance cancer mutagenesis observed in HPV-positive cancers.
+
+Answer:
+The viral protein E7 from high-risk HPVs binds to cullin 2 (CUL2), prolonging the cellular half-life of A3A protein in human keratinocytes and HPV-positive cancer cell lines. This interaction inhibits ubiquitin-dependent protein degradation, leading to an increase in A3A protein levels. The stabilized A3A remains catalytically active, potentially contributing to the distinct mutational signatures observed in HPV-positive cancers.
+
+Label:
+Incorrect
