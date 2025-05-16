@@ -1,9 +1,0 @@
-pandas
-numpy
-tqdm
-openai
-scikit-learn
-python-dotenv
-re
-typing
-collections
