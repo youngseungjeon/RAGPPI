@@ -1,4 +1,4 @@
-# RAGPPI: A Benchmark for Therapeutic Impact in Protein-Protein Interactions
+# RAGPPI: RAG Benchmark for Protein-Protein Interactions in Drug Discovery
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](#python)
 [![Dataset on Hugging Face](https://img.shields.io/badge/HuggingFace-Dataset-orange)](https://huggingface.co/datasets/Youngseung/RAGPPI)
