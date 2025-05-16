@@ -67,4 +67,3 @@ from datasets import load_dataset
 Groud_truth = load_dataset("Youngseung/RAGPPI", split="train")
 AtomicFacts_Abstract = load_dataset("Youngseung/RAGPPI_Atomics", split="train")
 ```
-
