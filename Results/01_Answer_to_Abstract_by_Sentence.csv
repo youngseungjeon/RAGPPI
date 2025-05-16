@@ -1,0 +1,61 @@
+Set_No,Atomic_Fact,Max_Cosine_Similarity
+Set_29,The Drosophila comatose (comt) gene encodes dNSF1.,0.978
+Set_29,"The comt gene interacts with the calcium channel alpha1-subunit gene, cacophony (cac).",0.709
+Set_29,The interaction between comt and cac affects synaptic vesicle priming for neurotransmitter release.,0.58
+Set_29,Mutations in the comt gene modify temperature-sensitive paralysis.,0.761
+Set_29,Mutations in the cac gene modify temperature-sensitive paralysis.,0.726
+Set_29,The comt and cac genes play a role in synaptic transmission.,0.586
+Set_29,The interaction between dNSF1 and cacophony could influence neuronal communication.,0.571
+Set_29,The interaction between dNSF1 and cacophony could influence behavior.,0.546
+Set_29,The interaction between dNSF1 and cacophony may have therapeutic implications for neurological disorders.,0.597
+Set_29,The Drosophila comatose (comt) gene encodes dNSF1.,0.978
+Set_29,"The comt gene interacts with the calcium channel alpha1-subunit gene, cacophony (cac).",0.709
+Set_29,The interaction between comt and cac affects synaptic vesicle priming for neurotransmitter release.,0.58
+Set_29,Mutations in the comt gene modify temperature-sensitive paralysis.,0.761
+Set_29,Mutations in the cac gene modify temperature-sensitive paralysis.,0.726
+Set_29,The comt and cac genes play a role in synaptic transmission.,0.586
+Set_29,The interaction between dNSF1 and cacophony could influence neuronal communication.,0.571
+Set_29,The interaction between dNSF1 and cacophony could influence behavior.,0.546
+Set_29,The interaction between dNSF1 and cacophony may have therapeutic implications for neurological disorders.,0.597
+Set_30,CYB-1 cyclin binds to CDK-1.,0.751
+Set_30,CYB-3 cyclin binds to CDK-1.,0.794
+Set_30,CYB-1 cyclin activates CDK-1.,0.737
+Set_30,CYB-3 cyclin activates CDK-1.,0.768
+Set_30,CDK-1 is a protein kinase.,0.707
+Set_30,CDK-1 phosphorylates various targets.,0.671
+Set_30,Phosphorylation of targets by CDK-1 regulates mitosis.,0.743
+Set_30,Inhibition of CYB-1 disrupts chromosome congression.,0.76
+Set_30,Disruption of chromosome congression leads to aneuploidy.,0.586
+Set_30,Inhibition of CYB-3 prevents initiation of sister chromatid separation.,0.766
+Set_30,Simultaneous inhibition of CYB-1 and CYB-3 results in a more severe arrest.,0.8
+Set_30,CYB-1 and CYB-3 cyclins have overlapping roles in mitotic progression.,0.759
+Set_30,CYB-1 and CYB-3 cyclins have distinct roles in mitotic progression.,0.764
+Set_30,CYB-1 cyclin binds to CDK-1.,0.751
+Set_30,CYB-3 cyclin binds to CDK-1.,0.794
+Set_30,CYB-1 cyclin activates CDK-1.,0.737
+Set_30,CYB-3 cyclin activates CDK-1.,0.768
+Set_30,CDK-1 is a protein kinase.,0.707
+Set_30,CDK-1 phosphorylates various targets.,0.671
+Set_30,Phosphorylation of targets by CDK-1 regulates mitosis.,0.743
+Set_30,Inhibition of CYB-1 disrupts chromosome congression.,0.76
+Set_30,Disruption of chromosome congression leads to aneuploidy.,0.586
+Set_30,Inhibition of CYB-3 prevents initiation of sister chromatid separation.,0.766
+Set_30,Simultaneous inhibition of CYB-1 and CYB-3 results in a more severe arrest.,0.8
+Set_30,CYB-1 and CYB-3 cyclins have overlapping roles in mitotic progression.,0.759
+Set_30,CYB-1 and CYB-3 cyclins have distinct roles in mitotic progression.,0.764
+Set_31,The N-terminus of USP8 interacts with CHMP1A.,0.652
+Set_31,USP8 is a deubiquitinating enzyme.,0.676
+Set_31,CHMP1A is involved in endosomal sorting of ubiquitinated receptors.,0.916
+Set_31,The interaction between USP8 and CHMP1A is crucial for USP8's localization to endosomes.,0.665
+Set_31,"Without the interaction with CHMP1A, USP8 cannot rescue its binding partner STAM from proteasomal degradation.",0.696
+Set_31,"Without the interaction with CHMP1A, USP8 cannot reverse a block to epidermal growth factor receptor degradation.",0.607
+Set_31,The USP8-CHMP1A interaction is critical for proper protein degradation.,0.641
+Set_31,The USP8-CHMP1A interaction is critical for proper receptor signaling.,0.586
+Set_31,The N-terminus of USP8 interacts with CHMP1A.,0.652
+Set_31,USP8 is a deubiquitinating enzyme.,0.676
+Set_31,CHMP1A is involved in endosomal sorting of ubiquitinated receptors.,0.916
+Set_31,The interaction between USP8 and CHMP1A is crucial for USP8's localization to endosomes.,0.665
+Set_31,"Without the interaction with CHMP1A, USP8 cannot rescue its binding partner STAM from proteasomal degradation.",0.696
+Set_31,"Without the interaction with CHMP1A, USP8 cannot reverse a block to epidermal growth factor receptor degradation.",0.607
+Set_31,The USP8-CHMP1A interaction is critical for proper protein degradation.,0.641
+Set_31,The USP8-CHMP1A interaction is critical for proper receptor signaling.,0.586
