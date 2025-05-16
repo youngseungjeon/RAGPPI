@@ -200,7 +200,7 @@ Cosine Similarity of Answer's Atomic Fact (vs abstract)
 
         client = OpenAI(api_key=self.api_key)
         response = client.chat.completions.create(
-            model="gpt-4o-mini",
+            model="gpt-4o",
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": model_context},
