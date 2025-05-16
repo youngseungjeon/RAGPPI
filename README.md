@@ -42,7 +42,8 @@ api = "YOUR OPENAI API KEY"
 RAGPPI_auto_evaluation(path, api)
 ```
 
-## Dataset (Hugging face)
+## Dataset (Hugging Face)
+You can explore the datasets using the code below. However, you don’t need to download the dataset manually for auto-evaluation, as GRAPPI already includes the code to load it.
 ### Ground-truth Dataset (Youngseung/RAGPPI)
 - **Size**: 4,220 PPIs (500 Gold- and 3,720 Silver-standard PPIs)
 - **Content**: Expert-labeled question-answer pairs focusing on PPI interaction types and therapeutic impact.
